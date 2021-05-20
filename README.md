@@ -1,17 +1,11 @@
 # Full-stack project
-### brought to you by DigitalCrafts Bootcamp team Park Rangers
+
 
 ---
 
 ## User story:
 As a user, I want to explore my options for my upcoming trip. The information available to me on the internet is scattered and I don't know what to choose. I want a place to streamline my decision to choose national parks, lodging, and other recommendations based on location, dates of the trip, and activity preferences.
 
-## Team members:
-* <a href="https://github.com/Jessicahaugen">Jessica Haugen</a>
-* <a href="https://github.com/taylorlightbourne">Taylor Lightbourne</a>
-* <a href="https://github.com/pgroves95">Patrick Groves</a>
-* <a href="https://github.com/wsvoboda">Whitney Svoboda</a>
-* <a href="https://github.com/mjbulostin">Michael Bulostin</a>
 
 ### Database table diagram with associations:
 
@@ -42,7 +36,6 @@ As a user, I want to explore my options for my upcoming trip. The information av
 
 ### Back-end:
 * Node.js
-* JavaScript
 * PostgreSQL database (Supabase)
 * RESTful API
 * API reference: https://www.nps.gov/subjects/developer/api-documentation.htm
@@ -63,20 +56,11 @@ As a user, I want to explore my options for my upcoming trip. The information av
 ---
 
 ### Front-end:
-* HTML & External CSS
-* Bootstrap elements
+* JavaScript
+* HTML & CSS
 * Media queries
 * Mobile responsiveness
 
----
-
-### Learnings & challenges:
-* Lorem ipsum
-* Lorem ipsum
-
-### Successes:
-* Lorem ipsum
-* Lorem ipsum
 
 ---
 
